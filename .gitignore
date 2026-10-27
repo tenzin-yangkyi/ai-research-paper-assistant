@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# API keys and secrets
+.env
+.streamlit/secrets.toml
+
+# ChromaDB local storage
+chroma_db/
+
+# macOS
+.DS_Store
+
+# Uploaded research papers (optional)
+uploads/
+
